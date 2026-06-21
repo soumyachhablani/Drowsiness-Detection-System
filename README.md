@@ -2,10 +2,8 @@
 
 Real-time driver drowsiness detection using **Eye Aspect Ratio (EAR)** computed from **MediaPipe** facial landmarks, with a **hardware buzzer alarm** on a **Raspberry Pi**. It detects both prolonged eye closure *and* loss of the driver's face (head-drop / looking away), and sounds an alarm — aligned with **UN SDG 3: Good Health & Well-being** by helping reduce fatigue-related road accidents.
 
-<!-- DEMO: in the GitHub editor, delete the line below and drag your demo.mp4 here -->
-*(Demo video below)*
 
----
+https://github.com/user-attachments/assets/9765105f-0d67-4f61-bf8f-0832f74f8434
 
 ## The story: why this is a v2
 
