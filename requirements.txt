@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+
+# Raspberry Pi only (for the hardware buzzer):
+gpiozero
+lgpio
